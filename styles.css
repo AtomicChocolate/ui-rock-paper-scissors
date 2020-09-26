@@ -1,0 +1,66 @@
+body {
+  background-color: #333;
+}
+
+p {
+  color: azure;
+}
+
+input {
+  border-radius: 20%;
+  border: 5px solid darkgray;
+  margin: 10px;
+  scale: 0.75;
+}
+
+input:hover {
+  background-color: lightgray;
+}
+
+.score-headings {
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 30px;
+}
+
+#plr-title {
+  color: cornflowerblue;
+}
+
+#cpu-title {
+  color: lightcoral;
+}
+
+.scores {
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 50px;
+}
+
+#plr-title {
+  position: relative;
+  left: 50px;
+}
+
+.choices {
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#results {
+  border-radius: 10px;
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  color: azure;
+  /*background-color: black; */
+  font-size: 20px;
+  text-align: center;
+  line-height: 100px;
+}
