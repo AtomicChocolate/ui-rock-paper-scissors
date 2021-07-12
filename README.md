@@ -4,7 +4,7 @@
 
 This is a new version of a previous rock paper scissors project, now able to be played in the webpage instead of in the console.
 
-## [Live Demo](Demo link goes here)
+## [Live Demo](https://atomicchocolate.github.io/ui-rock-paper-scissors/)
 
 ### Made with
 - HTML
