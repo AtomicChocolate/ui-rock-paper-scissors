@@ -1,4 +1,12 @@
-## UI Rock Paper Scissors
+# UI Rock Paper Scissors
 
-This project is a new version of my previous Rock Paper Scissors project, this time not played using the console, everything is on the webpage.
-The project showed my knowledge of DOM manipulation, as part of [The Odin Project](https://www.theodinproject.com).
+[**Made as a project for The Odin Project curriculum.**](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/rock-paper-scissors)
+
+This is a new version of a previous rock paper scissors project, now able to be played in the webpage instead of in the console.
+
+## [Live Demo](Demo link goes here)
+
+### Made with
+- HTML
+- CSS
+- JavaScript
